@@ -11,7 +11,6 @@
  * Created on 5 de Maio de 2017, 09:37
  */
 #include <stdio.h>
-#include "newfile.c"
 
  int main(void)
  {
